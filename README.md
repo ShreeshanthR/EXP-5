@@ -41,10 +41,6 @@ OBSERVATIONS:
 
 ![WhatsApp Image 2026-03-20 at 04 46 19](https://github.com/user-attachments/assets/31c7ff58-9d94-46a8-be8a-9995a80794fc)
 
-REGULATION CHARACTERISTICS:
-
-V-I & REGULATION CHARACTERISTICS:
-
 PRECAUTIONS:
 
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
